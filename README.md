@@ -4,4 +4,4 @@ In this project I've created a binary to decimal converter using HTML and JavaSc
 
 ### Demo ✏
 
-![Bin2Dec Demo](demo/bin2dec.gif)
+![Bi2Dec Demo](demo/bi2dec.gif)
